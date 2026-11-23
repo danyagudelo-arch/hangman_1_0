@@ -59,5 +59,27 @@ def iniciar_juego():
         print("La palabra correcta era:", palabra_secreta)
 
 
+def main():
+    while True:
+        iniciar_juego()
+
+        print("\n================================")
+        print("       FIN DE LA PARTIDA")
+        print("================================")
+        print("1. Jugar nuevamente")
+        print("2. Salir")
+
+        opcion = input("\nSelecciona una opción: ").strip()
+
+        if opcion == "1":
+            print("\n¡Comencemos una nueva partida!")
+        elif opcion == "2":
+            print("\nGracias por jugar al Ahorcado. ¡Hasta pronto!")
+            break
+        else:
+            print("\nOpción inválida. El programa finalizará.")
+            break
+
+
 if __name__ == "__main__":
-    iniciar_juego()
+    main()
