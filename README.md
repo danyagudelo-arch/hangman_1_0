@@ -1,8 +1,8 @@
 ## 1. Lista de requerimientos
 
-- [ ] Crear el archivo principal del programa.
-- [ ] Crear un archivo independiente con la lista de palabras.
-- [ ] Crear un archivo independiente con la representación del ahorcado.
+- [x] Crear el archivo principal del programa.
+- [x] Crear un archivo independiente con la lista de palabras.
+- [x] Crear un archivo independiente con la representación del ahorcado.
 - [ ] Importar los archivos de palabras y dibujos en el archivo principal.
 - [ ] Seleccionar aleatoriamente una palabra de la lista.
 - [ ] Ocultar cada carácter de la palabra utilizando guiones bajos (`_`).
