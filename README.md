@@ -3,8 +3,8 @@
 - [x] Crear el archivo principal del programa.
 - [x] Crear un archivo independiente con la lista de palabras.
 - [x] Crear un archivo independiente con la representación del ahorcado.
-- [ ] Importar los archivos de palabras y dibujos en el archivo principal.
-- [ ] Seleccionar aleatoriamente una palabra de la lista.
+- [x] Importar los archivos de palabras y dibujos en el archivo principal.
+- [x] Seleccionar aleatoriamente una palabra de la lista.
 - [ ] Ocultar cada carácter de la palabra utilizando guiones bajos (`_`).
 - [ ] Solicitar al usuario que ingrese una letra por consola.
 - [ ] Validar que el usuario ingrese solamente una letra.
