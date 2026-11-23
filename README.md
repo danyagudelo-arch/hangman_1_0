@@ -12,13 +12,13 @@
 - [x] Validar que la letra no haya sido utilizada anteriormente.
 - [x] Mostrar las letras correctas en sus posiciones correspondientes.
 - [x] Descontar una vida cuando la letra ingresada no exista en la palabra.
-- [ ] Representar las seis etapas del ahorcado mediante dibujos.
+- [x] Representar las seis etapas del ahorcado mediante dibujos.
 - [x] Mostrar el contador de vidas restantes.
 - [x] Mostrar un mensaje de derrota y revelar la palabra cuando se pierdan todas las vidas.
 - [x] Mostrar un mensaje de victoria cuando se adivine la palabra.
-- [ ] Preguntar al jugador si desea volver a jugar o finalizar el programa.
-- [ ] Probar el funcionamiento de todas las funcionalidades.
-- [ ] Corregir los errores encontrados durante las pruebas.
+- [x] Preguntar al jugador si desea volver a jugar o finalizar el programa.
+- [x] Probar el funcionamiento de todas las funcionalidades.
+- [x] Corregir los errores encontrados durante las pruebas.
 
 ## 2. Información del proyecto
 
