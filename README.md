@@ -5,7 +5,7 @@
 - [x] Crear un archivo independiente con la representación del ahorcado.
 - [x] Importar los archivos de palabras y dibujos en el archivo principal.
 - [x] Seleccionar aleatoriamente una palabra de la lista.
-- [ ] Ocultar cada carácter de la palabra utilizando guiones bajos (`_`).
+- [x] Ocultar cada carácter de la palabra utilizando guiones bajos (`_`).
 - [ ] Solicitar al usuario que ingrese una letra por consola.
 - [ ] Validar que el usuario ingrese solamente una letra.
 - [ ] Validar que la letra esté comprendida entre A y Z.
