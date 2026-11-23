@@ -6,16 +6,16 @@
 - [x] Importar los archivos de palabras y dibujos en el archivo principal.
 - [x] Seleccionar aleatoriamente una palabra de la lista.
 - [x] Ocultar cada carácter de la palabra utilizando guiones bajos (`_`).
-- [ ] Solicitar al usuario que ingrese una letra por consola.
-- [ ] Validar que el usuario ingrese solamente una letra.
-- [ ] Validar que la letra esté comprendida entre A y Z.
-- [ ] Validar que la letra no haya sido utilizada anteriormente.
-- [ ] Mostrar las letras correctas en sus posiciones correspondientes.
-- [ ] Descontar una vida cuando la letra ingresada no exista en la palabra.
+- [x] Solicitar al usuario que ingrese una letra por consola.
+- [x] Validar que el usuario ingrese solamente una letra.
+- [x] Validar que la letra esté comprendida entre A y Z.
+- [x] Validar que la letra no haya sido utilizada anteriormente.
+- [x] Mostrar las letras correctas en sus posiciones correspondientes.
+- [x] Descontar una vida cuando la letra ingresada no exista en la palabra.
 - [ ] Representar las seis etapas del ahorcado mediante dibujos.
-- [ ] Mostrar el contador de vidas restantes.
-- [ ] Mostrar un mensaje de derrota y revelar la palabra cuando se pierdan todas las vidas.
-- [ ] Mostrar un mensaje de victoria cuando se adivine la palabra.
+- [x] Mostrar el contador de vidas restantes.
+- [x] Mostrar un mensaje de derrota y revelar la palabra cuando se pierdan todas las vidas.
+- [x] Mostrar un mensaje de victoria cuando se adivine la palabra.
 - [ ] Preguntar al jugador si desea volver a jugar o finalizar el programa.
 - [ ] Probar el funcionamiento de todas las funcionalidades.
 - [ ] Corregir los errores encontrados durante las pruebas.
